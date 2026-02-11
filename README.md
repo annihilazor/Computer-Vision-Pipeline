@@ -28,3 +28,34 @@ The project covers everything from classical image processing to modern deep lea
 
 ## 📂 Project Structure
 
+---
+
+## 🚀 Demos Included
+
+- Real-time motion-based burglar alarm system  
+- YOLO detection for suspicious activity  
+- Roboflow dataset annotation + testing  
+- UNet/RCNN segmentation results  
+
+---
+
+## 🔧 Tech Stack
+
+- Python  
+- OpenCV  
+- PyTorch / TensorFlow  
+- YOLO  
+- UNet / RCNN  
+- Roboflow  
+
+---
+
+## 🎯 Purpose
+
+This project demonstrates a complete computer vision workflow — from traditional CV to state-of-the-art deep learning models — showcasing practical ML engineering skills.
+
+---
+
+## 👤 Author
+Abhinav Kumar  
+
